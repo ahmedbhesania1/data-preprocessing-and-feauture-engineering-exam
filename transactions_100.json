@@ -1,0 +1,802 @@
+[
+    {
+        "transaction_id": "T001",
+        "customer_id": 101,
+        "product_id": "P001",
+        "amount": 499,
+        "payment_mode": "UPI",
+        "date": "2025-10-01"
+    },
+    {
+        "transaction_id": "T002",
+        "customer_id": 103,
+        "product_id": "P003",
+        "amount": 1299,
+        "payment_mode": "Credit Card",
+        "date": "2025-10-02"
+    },
+    {
+        "transaction_id": "T003",
+        "customer_id": 104,
+        "product_id": "P002",
+        "amount": 699,
+        "payment_mode": "Debit Card",
+        "date": "2025-10-03"
+    },
+    {
+        "transaction_id": "T004",
+        "customer_id": 105,
+        "product_id": "P005",
+        "amount": 1999,
+        "payment_mode": "UPI",
+        "date": "2025-10-05"
+    },
+    {
+        "transaction_id": "T005",
+        "customer_id": 107,
+        "product_id": "P004",
+        "amount": 899,
+        "payment_mode": "Cash",
+        "date": "2025-10-07"
+    },
+    {
+        "transaction_id": "T006",
+        "customer_id": 108,
+        "product_id": "P006",
+        "amount": 2599,
+        "payment_mode": "UPI",
+        "date": "2025-10-08"
+    },
+    {
+        "transaction_id": "T007",
+        "customer_id": 102,
+        "product_id": "P003",
+        "amount": 1499,
+        "payment_mode": "Credit Card",
+        "date": "2025-10-09"
+    },
+    {
+        "transaction_id": "T008",
+        "customer_id": 106,
+        "product_id": "P001",
+        "amount": 499,
+        "payment_mode": "Cash",
+        "date": "2025-10-10"
+    },
+    {
+        "transaction_id": "T009",
+        "customer_id": 109,
+        "product_id": "P099",
+        "amount": 699,
+        "payment_mode": "Debit Card",
+        "date": "2025-10-11"
+    },
+    {
+        "transaction_id": "T010",
+        "customer_id": 183,
+        "product_id": "P066",
+        "amount": 1299,
+        "payment_mode": "Net Banking",
+        "date": "2025-10-12"
+    },
+    {
+        "transaction_id": "T011",
+        "customer_id": 143,
+        "product_id": "P004",
+        "amount": 249,
+        "payment_mode": "Debit Card",
+        "date": "2025-10-13"
+    },
+    {
+        "transaction_id": "T012",
+        "customer_id": 123,
+        "product_id": "P075",
+        "amount": 699,
+        "payment_mode": "UPI",
+        "date": "2025-10-14"
+    },
+    {
+        "transaction_id": "T013",
+        "customer_id": 114,
+        "product_id": "P077",
+        "amount": 1499,
+        "payment_mode": "Debit Card",
+        "date": "2025-10-15"
+    },
+    {
+        "transaction_id": "T014",
+        "customer_id": 194,
+        "product_id": "P041",
+        "amount": 1499,
+        "payment_mode": "Net Banking",
+        "date": "2025-10-16"
+    },
+    {
+        "transaction_id": "T015",
+        "customer_id": 166,
+        "product_id": "P015",
+        "amount": 1299,
+        "payment_mode": "Net Banking",
+        "date": "2025-10-17"
+    },
+    {
+        "transaction_id": "T016",
+        "customer_id": 125,
+        "product_id": "P033",
+        "amount": 149,
+        "payment_mode": "Cash",
+        "date": "2025-10-18"
+    },
+    {
+        "transaction_id": "T017",
+        "customer_id": 101,
+        "product_id": "P067",
+        "amount": 2999,
+        "payment_mode": "Credit Card",
+        "date": "2025-10-19"
+    },
+    {
+        "transaction_id": "T018",
+        "customer_id": 147,
+        "product_id": "P056",
+        "amount": 199,
+        "payment_mode": "Debit Card",
+        "date": "2025-10-20"
+    },
+    {
+        "transaction_id": "T019",
+        "customer_id": 180,
+        "product_id": "P041",
+        "amount": 249,
+        "payment_mode": "Debit Card",
+        "date": "2025-10-21"
+    },
+    {
+        "transaction_id": "T020",
+        "customer_id": 165,
+        "product_id": "P040",
+        "amount": 1499,
+        "payment_mode": "Debit Card",
+        "date": "2025-10-22"
+    },
+    {
+        "transaction_id": "T021",
+        "customer_id": 152,
+        "product_id": "P090",
+        "amount": 799,
+        "payment_mode": "Net Banking",
+        "date": "2025-10-23"
+    },
+    {
+        "transaction_id": "T022",
+        "customer_id": 117,
+        "product_id": "P025",
+        "amount": 1499,
+        "payment_mode": "Cash",
+        "date": "2025-10-24"
+    },
+    {
+        "transaction_id": "T023",
+        "customer_id": 187,
+        "product_id": "P096",
+        "amount": 399,
+        "payment_mode": "Net Banking",
+        "date": "2025-10-25"
+    },
+    {
+        "transaction_id": "T024",
+        "customer_id": 173,
+        "product_id": "P039",
+        "amount": 1299,
+        "payment_mode": "Net Banking",
+        "date": "2025-10-26"
+    },
+    {
+        "transaction_id": "T025",
+        "customer_id": 101,
+        "product_id": "P039",
+        "amount": 799,
+        "payment_mode": "Credit Card",
+        "date": "2025-10-27"
+    },
+    {
+        "transaction_id": "T026",
+        "customer_id": 156,
+        "product_id": "P075",
+        "amount": 4999,
+        "payment_mode": "Debit Card",
+        "date": "2025-10-28"
+    },
+    {
+        "transaction_id": "T027",
+        "customer_id": 160,
+        "product_id": "P057",
+        "amount": 1799,
+        "payment_mode": "Credit Card",
+        "date": "2025-10-29"
+    },
+    {
+        "transaction_id": "T028",
+        "customer_id": 166,
+        "product_id": "P061",
+        "amount": 399,
+        "payment_mode": "UPI",
+        "date": "2025-10-30"
+    },
+    {
+        "transaction_id": "T029",
+        "customer_id": 137,
+        "product_id": "P066",
+        "amount": 5999,
+        "payment_mode": "Net Banking",
+        "date": "2025-10-31"
+    },
+    {
+        "transaction_id": "T030",
+        "customer_id": 143,
+        "product_id": "P012",
+        "amount": 599,
+        "payment_mode": "Debit Card",
+        "date": "2025-11-01"
+    },
+    {
+        "transaction_id": "T031",
+        "customer_id": 129,
+        "product_id": "P026",
+        "amount": 299,
+        "payment_mode": "UPI",
+        "date": "2025-11-02"
+    },
+    {
+        "transaction_id": "T032",
+        "customer_id": 106,
+        "product_id": "P032",
+        "amount": 1999,
+        "payment_mode": "Net Banking",
+        "date": "2025-11-03"
+    },
+    {
+        "transaction_id": "T033",
+        "customer_id": 199,
+        "product_id": "P010",
+        "amount": 1799,
+        "payment_mode": "Cash",
+        "date": "2025-11-04"
+    },
+    {
+        "transaction_id": "T034",
+        "customer_id": 181,
+        "product_id": "P074",
+        "amount": 499,
+        "payment_mode": "Cash",
+        "date": "2025-11-05"
+    },
+    {
+        "transaction_id": "T035",
+        "customer_id": 164,
+        "product_id": "P052",
+        "amount": 599,
+        "payment_mode": "Credit Card",
+        "date": "2025-11-06"
+    },
+    {
+        "transaction_id": "T036",
+        "customer_id": 184,
+        "product_id": "P089",
+        "amount": 99,
+        "payment_mode": "UPI",
+        "date": "2025-11-07"
+    },
+    {
+        "transaction_id": "T037",
+        "customer_id": 200,
+        "product_id": "P055",
+        "amount": 599,
+        "payment_mode": "Credit Card",
+        "date": "2025-11-08"
+    },
+    {
+        "transaction_id": "T038",
+        "customer_id": 190,
+        "product_id": "P067",
+        "amount": 1799,
+        "payment_mode": "UPI",
+        "date": "2025-11-09"
+    },
+    {
+        "transaction_id": "T039",
+        "customer_id": 172,
+        "product_id": "P032",
+        "amount": 249,
+        "payment_mode": "Cash",
+        "date": "2025-11-10"
+    },
+    {
+        "transaction_id": "T040",
+        "customer_id": 118,
+        "product_id": "P060",
+        "amount": 2599,
+        "payment_mode": "Net Banking",
+        "date": "2025-11-11"
+    },
+    {
+        "transaction_id": "T041",
+        "customer_id": 177,
+        "product_id": "P041",
+        "amount": 1799,
+        "payment_mode": "Net Banking",
+        "date": "2025-11-12"
+    },
+    {
+        "transaction_id": "T042",
+        "customer_id": 193,
+        "product_id": "P065",
+        "amount": 1499,
+        "payment_mode": "Net Banking",
+        "date": "2025-11-13"
+    },
+    {
+        "transaction_id": "T043",
+        "customer_id": 158,
+        "product_id": "P021",
+        "amount": 1999,
+        "payment_mode": "Cash",
+        "date": "2025-11-14"
+    },
+    {
+        "transaction_id": "T044",
+        "customer_id": 134,
+        "product_id": "P097",
+        "amount": 599,
+        "payment_mode": "Debit Card",
+        "date": "2025-11-15"
+    },
+    {
+        "transaction_id": "T045",
+        "customer_id": 199,
+        "product_id": "P100",
+        "amount": 2599,
+        "payment_mode": "Cash",
+        "date": "2025-11-16"
+    },
+    {
+        "transaction_id": "T046",
+        "customer_id": 181,
+        "product_id": "P031",
+        "amount": 699,
+        "payment_mode": "Cash",
+        "date": "2025-11-17"
+    },
+    {
+        "transaction_id": "T047",
+        "customer_id": 110,
+        "product_id": "P092",
+        "amount": 799,
+        "payment_mode": "Credit Card",
+        "date": "2025-11-18"
+    },
+    {
+        "transaction_id": "T048",
+        "customer_id": 135,
+        "product_id": "P043",
+        "amount": 899,
+        "payment_mode": "Net Banking",
+        "date": "2025-11-19"
+    },
+    {
+        "transaction_id": "T049",
+        "customer_id": 111,
+        "product_id": "P018",
+        "amount": 299,
+        "payment_mode": "Credit Card",
+        "date": "2025-11-20"
+    },
+    {
+        "transaction_id": "T050",
+        "customer_id": 150,
+        "product_id": "P089",
+        "amount": 299,
+        "payment_mode": "Credit Card",
+        "date": "2025-11-21"
+    },
+    {
+        "transaction_id": "T051",
+        "customer_id": 109,
+        "product_id": "P054",
+        "amount": 1499,
+        "payment_mode": "Debit Card",
+        "date": "2025-11-22"
+    },
+    {
+        "transaction_id": "T052",
+        "customer_id": 170,
+        "product_id": "P060",
+        "amount": 1499,
+        "payment_mode": "UPI",
+        "date": "2025-11-23"
+    },
+    {
+        "transaction_id": "T053",
+        "customer_id": 127,
+        "product_id": "P054",
+        "amount": 1299,
+        "payment_mode": "Net Banking",
+        "date": "2025-11-24"
+    },
+    {
+        "transaction_id": "T054",
+        "customer_id": 190,
+        "product_id": "P003",
+        "amount": 3499,
+        "payment_mode": "Cash",
+        "date": "2025-11-25"
+    },
+    {
+        "transaction_id": "T055",
+        "customer_id": 162,
+        "product_id": "P001",
+        "amount": 999,
+        "payment_mode": "Debit Card",
+        "date": "2025-11-26"
+    },
+    {
+        "transaction_id": "T056",
+        "customer_id": 197,
+        "product_id": "P050",
+        "amount": 1499,
+        "payment_mode": "Net Banking",
+        "date": "2025-11-27"
+    },
+    {
+        "transaction_id": "T057",
+        "customer_id": 196,
+        "product_id": "P095",
+        "amount": 2999,
+        "payment_mode": "Net Banking",
+        "date": "2025-11-28"
+    },
+    {
+        "transaction_id": "T058",
+        "customer_id": 129,
+        "product_id": "P063",
+        "amount": 599,
+        "payment_mode": "Debit Card",
+        "date": "2025-11-29"
+    },
+    {
+        "transaction_id": "T059",
+        "customer_id": 156,
+        "product_id": "P063",
+        "amount": 99,
+        "payment_mode": "Cash",
+        "date": "2025-11-30"
+    },
+    {
+        "transaction_id": "T060",
+        "customer_id": 144,
+        "product_id": "P086",
+        "amount": 1299,
+        "payment_mode": "Credit Card",
+        "date": "2025-12-01"
+    },
+    {
+        "transaction_id": "T061",
+        "customer_id": 160,
+        "product_id": "P017",
+        "amount": 4999,
+        "payment_mode": "Net Banking",
+        "date": "2025-12-02"
+    },
+    {
+        "transaction_id": "T062",
+        "customer_id": 104,
+        "product_id": "P051",
+        "amount": 3499,
+        "payment_mode": "Net Banking",
+        "date": "2025-12-03"
+    },
+    {
+        "transaction_id": "T063",
+        "customer_id": 185,
+        "product_id": "P004",
+        "amount": 199,
+        "payment_mode": "Cash",
+        "date": "2025-12-04"
+    },
+    {
+        "transaction_id": "T064",
+        "customer_id": 118,
+        "product_id": "P060",
+        "amount": 399,
+        "payment_mode": "UPI",
+        "date": "2025-12-05"
+    },
+    {
+        "transaction_id": "T065",
+        "customer_id": 134,
+        "product_id": "P049",
+        "amount": 899,
+        "payment_mode": "Credit Card",
+        "date": "2025-12-06"
+    },
+    {
+        "transaction_id": "T066",
+        "customer_id": 159,
+        "product_id": "P042",
+        "amount": 899,
+        "payment_mode": "Cash",
+        "date": "2025-12-07"
+    },
+    {
+        "transaction_id": "T067",
+        "customer_id": 136,
+        "product_id": "P097",
+        "amount": 1499,
+        "payment_mode": "Debit Card",
+        "date": "2025-12-08"
+    },
+    {
+        "transaction_id": "T068",
+        "customer_id": 111,
+        "product_id": "P061",
+        "amount": 99,
+        "payment_mode": "Net Banking",
+        "date": "2025-12-09"
+    },
+    {
+        "transaction_id": "T069",
+        "customer_id": 107,
+        "product_id": "P045",
+        "amount": 599,
+        "payment_mode": "UPI",
+        "date": "2025-12-10"
+    },
+    {
+        "transaction_id": "T070",
+        "customer_id": 200,
+        "product_id": "P084",
+        "amount": 149,
+        "payment_mode": "UPI",
+        "date": "2025-12-11"
+    },
+    {
+        "transaction_id": "T071",
+        "customer_id": 132,
+        "product_id": "P026",
+        "amount": 99,
+        "payment_mode": "Net Banking",
+        "date": "2025-12-12"
+    },
+    {
+        "transaction_id": "T072",
+        "customer_id": 120,
+        "product_id": "P031",
+        "amount": 299,
+        "payment_mode": "Cash",
+        "date": "2025-12-13"
+    },
+    {
+        "transaction_id": "T073",
+        "customer_id": 186,
+        "product_id": "P015",
+        "amount": 3499,
+        "payment_mode": "Credit Card",
+        "date": "2025-12-14"
+    },
+    {
+        "transaction_id": "T074",
+        "customer_id": 160,
+        "product_id": "P090",
+        "amount": 699,
+        "payment_mode": "Debit Card",
+        "date": "2025-12-15"
+    },
+    {
+        "transaction_id": "T075",
+        "customer_id": 122,
+        "product_id": "P078",
+        "amount": 4999,
+        "payment_mode": "UPI",
+        "date": "2025-12-16"
+    },
+    {
+        "transaction_id": "T076",
+        "customer_id": 200,
+        "product_id": "P021",
+        "amount": 799,
+        "payment_mode": "UPI",
+        "date": "2025-12-17"
+    },
+    {
+        "transaction_id": "T077",
+        "customer_id": 175,
+        "product_id": "P004",
+        "amount": 799,
+        "payment_mode": "Net Banking",
+        "date": "2025-12-18"
+    },
+    {
+        "transaction_id": "T078",
+        "customer_id": 187,
+        "product_id": "P049",
+        "amount": 1299,
+        "payment_mode": "Credit Card",
+        "date": "2025-12-19"
+    },
+    {
+        "transaction_id": "T079",
+        "customer_id": 110,
+        "product_id": "P076",
+        "amount": 5999,
+        "payment_mode": "Credit Card",
+        "date": "2025-12-20"
+    },
+    {
+        "transaction_id": "T080",
+        "customer_id": 114,
+        "product_id": "P090",
+        "amount": 799,
+        "payment_mode": "Net Banking",
+        "date": "2025-12-21"
+    },
+    {
+        "transaction_id": "T081",
+        "customer_id": 116,
+        "product_id": "P073",
+        "amount": 149,
+        "payment_mode": "Debit Card",
+        "date": "2025-12-22"
+    },
+    {
+        "transaction_id": "T082",
+        "customer_id": 169,
+        "product_id": "P055",
+        "amount": 999,
+        "payment_mode": "UPI",
+        "date": "2025-12-23"
+    },
+    {
+        "transaction_id": "T083",
+        "customer_id": 165,
+        "product_id": "P083",
+        "amount": 899,
+        "payment_mode": "UPI",
+        "date": "2025-12-24"
+    },
+    {
+        "transaction_id": "T084",
+        "customer_id": 154,
+        "product_id": "P063",
+        "amount": 249,
+        "payment_mode": "Cash",
+        "date": "2025-12-25"
+    },
+    {
+        "transaction_id": "T085",
+        "customer_id": 147,
+        "product_id": "P082",
+        "amount": 1799,
+        "payment_mode": "Credit Card",
+        "date": "2025-12-26"
+    },
+    {
+        "transaction_id": "T086",
+        "customer_id": 156,
+        "product_id": "P023",
+        "amount": 2599,
+        "payment_mode": "Debit Card",
+        "date": "2025-12-27"
+    },
+    {
+        "transaction_id": "T087",
+        "customer_id": 179,
+        "product_id": "P069",
+        "amount": 1999,
+        "payment_mode": "Cash",
+        "date": "2025-12-28"
+    },
+    {
+        "transaction_id": "T088",
+        "customer_id": 156,
+        "product_id": "P094",
+        "amount": 3499,
+        "payment_mode": "Debit Card",
+        "date": "2025-12-29"
+    },
+    {
+        "transaction_id": "T089",
+        "customer_id": 142,
+        "product_id": "P032",
+        "amount": 199,
+        "payment_mode": "Debit Card",
+        "date": "2025-12-30"
+    },
+    {
+        "transaction_id": "T090",
+        "customer_id": 158,
+        "product_id": "P032",
+        "amount": 1799,
+        "payment_mode": "Net Banking",
+        "date": "2025-12-31"
+    },
+    {
+        "transaction_id": "T091",
+        "customer_id": 179,
+        "product_id": "P086",
+        "amount": 1299,
+        "payment_mode": "Debit Card",
+        "date": "2026-01-01"
+    },
+    {
+        "transaction_id": "T092",
+        "customer_id": 104,
+        "product_id": "P064",
+        "amount": 899,
+        "payment_mode": "Credit Card",
+        "date": "2026-01-02"
+    },
+    {
+        "transaction_id": "T093",
+        "customer_id": 163,
+        "product_id": "P028",
+        "amount": 999,
+        "payment_mode": "Debit Card",
+        "date": "2026-01-03"
+    },
+    {
+        "transaction_id": "T094",
+        "customer_id": 144,
+        "product_id": "P036",
+        "amount": 4999,
+        "payment_mode": "Debit Card",
+        "date": "2026-01-04"
+    },
+    {
+        "transaction_id": "T095",
+        "customer_id": 172,
+        "product_id": "P002",
+        "amount": 2599,
+        "payment_mode": "Credit Card",
+        "date": "2026-01-05"
+    },
+    {
+        "transaction_id": "T096",
+        "customer_id": 111,
+        "product_id": "P031",
+        "amount": 1499,
+        "payment_mode": "Cash",
+        "date": "2026-01-06"
+    },
+    {
+        "transaction_id": "T097",
+        "customer_id": 172,
+        "product_id": "P098",
+        "amount": 599,
+        "payment_mode": "Cash",
+        "date": "2026-01-07"
+    },
+    {
+        "transaction_id": "T098",
+        "customer_id": 183,
+        "product_id": "P092",
+        "amount": 1999,
+        "payment_mode": "Cash",
+        "date": "2026-01-08"
+    },
+    {
+        "transaction_id": "T099",
+        "customer_id": 103,
+        "product_id": "P012",
+        "amount": 799,
+        "payment_mode": "Credit Card",
+        "date": "2026-01-09"
+    },
+    {
+        "transaction_id": "T100",
+        "customer_id": 152,
+        "product_id": "P089",
+        "amount": 599,
+        "payment_mode": "Debit Card",
+        "date": "2026-01-10"
+    }
+]
